@@ -1,0 +1,41 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Minion Variable Concept, sans-serif;
+	color: white;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+label {
+    font-weight: normal;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 100%;
+    padding: 5px;
+    border: 5px; 
+}
+
+button {
+    background-color: blue;
+    border: 5px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    text-decoration: underline;
+}

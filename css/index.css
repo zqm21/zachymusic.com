@@ -1,0 +1,57 @@
+<!DOC<DOCTYPE css>
+<css>
+
+
+h1 {
+  color: white;
+}
+nav a {
+  color: white;
+}
+nav a {
+    font-family: "Minion Variable Concept", serif;
+}
+h1 {
+    text-align: center;
+}
+nav a {
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+nav a {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+nav a {
+    text-decoration: none;
+}
+#secondary-navigation {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
+#main-navigation {
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+nav-button {
+    width: 50px; 
+    height: 50px; 
+  
+}
+.spnav img {
+    width: 35px; 
+    height: 35px; 
+}
+.ignav img {
+    width: 35px; 
+    height: 35px; 
+}
+.apnav img {
+    width: 40px; 
+    height: 40px; 
+}
